@@ -17,7 +17,6 @@ import { useScaffoldEventHistory, useScaffoldReadContract } from "~~/hooks/scaff
 import { formatDisplayValue } from "~~/utils/helpers";
 
 const ZERO_ADDRESS = "0x0000000000000000000000000000000000000000";
-const PURPLE_COLOR = "#8884d8";
 const GREEN_COLOR = "#82ca9d";
 const ORANGE_COLOR = "#f9a73e";
 
